@@ -21,7 +21,7 @@ Die Übungsaufgabe, Musterlösunge und die Daten stammen aus dem Udemy- Kurs <a 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/katjanein91/Natural-Language-Processing/master?filepath=Nlp%20Projekt%20-%20Aufgaben_geloest.ipynb)
 
 Durch das Anklicken des blauen badge oben oder über folgende URL erhälst man Zugriff zu Binder um das Projekt mit der Lösung auszuführen:
-<a href = "https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/katjanein91/Natural-Language-Processing/master?filepath=Nlp%20Projekt%20-%20Aufgaben_geloest.ipynb"> Nlp Projekt - Aufgaben_geloest.ipynb  </a>
+<a href = "https://mybinder.org/v2/gh/katjanein91/Natural-Language-Processing/master?filepath=Nlp%20Projekt%20-%20Aufgaben_geloest.ipynb"> Nlp Projekt - Aufgaben_geloest.ipynb  </a>
 
 Das Jupiter Notebook mit der Läsung wird im Browser geöffnet.\
 Wähle unter dem Reiter 'Cell' --> 'Run All' aus um den Python Code auszuführen.\
