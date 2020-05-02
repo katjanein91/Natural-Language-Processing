@@ -14,7 +14,7 @@ Für die reproduktion des Projekts im Bereich Logistic Regression wird die Platt
 Die Übungsaufgabe, Musterlösunge und die Daten stammen aus dem Udemy- Kurs <a href = "https://www.udemy.com/course/python-data-science-machine-learning/learn/lecture/7758164#overview">"Phython für Data Science, Maschinelles Lernen & Visualization"</a>.
   
 <b>Informationen zu NLP (Wikipedia):</b>\
-<a href = https://de.wikipedia.org/wiki/Neuro-Linguistisches_Programmieren</a>
+<a href = https://de.wikipedia.org/wiki/Neuro-Linguistisches_Programmieren </a>
 
 # Binder Badge Logistische Regression 
 
