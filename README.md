@@ -14,9 +14,9 @@ Für die reproduktion des Projekts im Bereich Logistic Regression wird die Platt
 Die Übungsaufgabe, Musterlösunge und die Daten stammen aus dem Udemy- Kurs <a href = "https://www.udemy.com/course/python-data-science-machine-learning/learn/lecture/7758164#overview">"Phython für Data Science, Maschinelles Lernen & Visualization"</a>.
   
 <b>Informationen zu NLP (Wikipedia):</b>\
-<a href = https://de.wikipedia.org/wiki/Neuro-Linguistisches_Programmieren </a>
+<a href = https://en.wikipedia.org/wiki/Natural_language_processing>Natural language processing </a>
 
-# Binder Badge Logistische Regression 
+# Binder Badge Natural-Language-Processing 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/katjanein91/Natural-Language-Processing/master?filepath=Nlp%20Projekt%20-%20Aufgaben_geloest.ipynb)
 
